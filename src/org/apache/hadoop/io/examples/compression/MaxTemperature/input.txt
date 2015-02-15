@@ -1,0 +1,1 @@
+hadoop org.apache.hadoop.io.examples.compression.MaxTemperature.MaxTemperatureWithCompression Sample.txt.gz output
